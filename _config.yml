@@ -33,6 +33,7 @@ github_username:  stugr
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Disqus Comments
 disqus:
@@ -40,6 +41,8 @@ disqus:
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
     shortname: stugr-com
 
+redirect_from:
+  - /blog/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
