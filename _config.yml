@@ -27,6 +27,7 @@ url: "http://stugr.com" # the base hostname & protocol for your site, e.g. http:
 twitter_username: nickstugr
 github_username:  stugr
 instagram_username: nickstugr
+linkedin_username: nicksturgess
 
 # Build settings
 theme: minima
