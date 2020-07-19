@@ -25,11 +25,11 @@ The sensor inside which is the bit we want can actually be found in 360/PS3 cont
 You'll need T6 and T8 security torx screwdrivers to pull apart the controller. Note the [security torx variant](https://en.wikipedia.org/wiki/Torx#Variants) of the screwdriver has a hole in the middle due to the screws having a post in the center of the head. (You can also snap off this post with a small flathead screwdriver to enable a normal torx to fit, and I also discovered if you have the correct width flathead screwdriver you can then also turn the screw using this) 
 
 I used this video for help with dissassembling and reassembling the elite controller:
-<iframe width="700" height="394" src="https://www.youtube.com/embed/tLt7lPE6bXI" frameborder="0" allowfullscreen></iframe>
-
+{% include youtube.html id='tLt7lPE6bXI' %}
+\
 I used this video (starting at 4:32) for the sensor replacement:
-<iframe width="700" height="394" src="https://www.youtube.com/embed/MoqW3PukDK0?start=272" frameborder="0" allowfullscreen></iframe>
-
+{% include youtube.html id='MoqW3PukDK0?start=272' %}
+\
 Xbox 360 controller:
 
 ![xbox 360 controller](/assets/posts/xbox/xbox-360.jpg)

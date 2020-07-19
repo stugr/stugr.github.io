@@ -23,7 +23,7 @@ Some of my notes after a few nights:
 - Try graphing motion event timeline using timestamps outputted by `dvr-scan`
 
 Example output (roughly cropped to just my cat, you don't need to watch me sleep ya weirdo):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZCUUOapwfEI" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id='ZCUUOapwfEI' %}
 
 # Prerequisites
 
