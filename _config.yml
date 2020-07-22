@@ -21,7 +21,7 @@
 title: Nick Sturgess
 email: info@stugr.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of technology ideas from Stugr (Nick Sturgess)
+  A collection of technology ideas
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://stugr.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nickstugr
