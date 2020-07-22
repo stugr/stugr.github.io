@@ -26,10 +26,10 @@ You'll need T6 and T8 security torx screwdrivers to pull apart the controller. N
 
 I used this video for help with dissassembling and reassembling the elite controller:
 {% include youtube.html id='tLt7lPE6bXI' %}
-\
+
 I used this video (starting at 4:32) for the sensor replacement:
 {% include youtube.html id='MoqW3PukDK0?start=272' %}
-\
+
 Xbox 360 controller:
 
 ![xbox 360 controller](/assets/posts/xbox/xbox-360.jpg)

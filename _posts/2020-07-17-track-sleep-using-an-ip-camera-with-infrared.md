@@ -24,7 +24,7 @@ Some of my notes after a few nights:
 
 Example output (roughly cropped to just my cat, you don't need to watch me sleep ya weirdo):
 {% include youtube.html id='ZCUUOapwfEI' %}
-<br />
+
 # Prerequisites
 
 You will need a copy of [ffmpeg](https://ffmpeg.org/) and [dvr-scan](https://dvr-scan.readthedocs.io/) (which you'll also need Python for). I'm running this on Windows and have my utils in my `%path%`
@@ -51,8 +51,8 @@ You will need a copy of [ffmpeg](https://ffmpeg.org/) and [dvr-scan](https://dvr
     dvr-scan -i capture-00009.mp4 -i capture-00010.mp4 -i capture-00011.mp4
     ```
 1. Open `scan.txt` and copy the contents into your clipboard
-1. Run `dvr-scan` command using the contents of your clipboard.\
-    This outputs one file per motion event, auto-naming all files using the filename of the first provided input file with `DSME_xxxx` appended on the end eg. `capture-00009.DSME_0000.avi`, `capture-00009.DSME_0001.avi` etc.\
+1. Run `dvr-scan` command using the contents of your clipboard.  
+    This outputs one file per motion event, auto-naming all files using the filename of the first provided input file with `DSME_xxxx` appended on the end eg. `capture-00009.DSME_0000.avi`, `capture-00009.DSME_0001.avi` etc.  
     _NB. dvr-scan outputs .avi and my attempts at using -c to specify a different codec were unsuccessful_
 1. Manually delete videos of motion at the start and end that aren't relevant
 1. Output the filenames of videos of motion in the format that ffmpeg wants into a file called `files.txt`
