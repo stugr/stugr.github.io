@@ -38,6 +38,9 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
 
+header_pages:
+  - about.markdown
+
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
