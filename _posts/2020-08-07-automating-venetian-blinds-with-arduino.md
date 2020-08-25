@@ -26,6 +26,8 @@ This sounded like a perfect opportunity to improve my working from home experien
 
 Code is on [github here](https://github.com/Stugr/blinds-automation)
 
+[![code](/assets/posts/blinds/code.png)](https://github.com/Stugr/blinds-automation "click to view code on github")
+
 ### Wiring diagram
 
 ![wiring diagram](/assets/posts/blinds/schematic.png "wiring diagram")
