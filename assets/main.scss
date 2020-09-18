@@ -43,7 +43,7 @@ a:visited, a:hover {
 .border {
     border: 1px solid;
 }
-.post-content img {
+.post-content img:not(.emoji) {
     margin: 8px auto;
     display: block;
 }

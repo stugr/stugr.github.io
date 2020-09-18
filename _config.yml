@@ -37,6 +37,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jemoji
 
 header_pages:
   - about.markdown
