@@ -47,3 +47,8 @@ a:visited, a:hover {
     margin: 8px auto;
     display: block;
 }
+//caption
+img + em {
+    display: block;
+    text-align: center;
+}
