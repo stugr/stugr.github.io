@@ -28,10 +28,10 @@ The first few months of not working were glorious. Within 2 weeks of my last day
 ![license](/assets/posts/becoming-me-2020-edition/license.jpg)
 *Thank you Jess for being an excellent and patient teacher*
 
-I learnt to trad climb at Mt Arapiles with Jon, another excellent and patient teacher. I started doing more sport and trad climbing with Phil, Gerardo and Sean, completing my first few multipitches. My outdoor bouldering grade improved, completing a bunch of v4 climbs on days spent at Mt Alex, Benloch and Camels Hump with Phil, Tee or Bo. I booked to do the Kokoda trail in May with my little brother Lachie, and hiked whenever I could in preparation - Feathertop with snow a highlight.
+I learnt to trad climb at Dyurrite/Mt Arapiles with Jon, another excellent and patient teacher. I started doing more sport and trad climbing with Phil, Gerardo and Sean, completing my first few multipitches. My outdoor bouldering grade improved, completing a bunch of v4 climbs on days spent at Mt Alex, Benloch and Camels Hump with Phil, Tee or Bo. I booked to do the Kokoda trail in May with my little brother Lachie, and hiked whenever I could in preparation - Feathertop with snow a highlight.
 
 ![arapiles](/assets/posts/becoming-me-2020-edition/arapiles.jpg)
-*Jon at Arapiles on my first visit*
+*Jon at Dyurrite/Arapiles on my first visit*
 
 I did 10 sessions with a psychologist while I had free access through works EAP (Employee Assistance Program). I had wrapped up a lot of my identity in my work, and with not working for the first time ever in my adult life I had quite a bit to do to figure out who I am, what I value, and what is my purpose - or at least I thought this was what I needed to figure out. I'd graduated school at 17, went straight to uni, then started my career at the end of my 2nd year of uni, going back to uni part time a year later to finish the course while still working.
 
