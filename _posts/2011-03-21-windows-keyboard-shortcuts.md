@@ -5,7 +5,7 @@ date: 2011-03-21T22:47:04+00:00
 author: nickstugr
 layout: post
 guid: http://stugr.com/?p=185
-permalink: /2011/03/21/windows-keyboard-shortcuts/
+redirect_from: /2011/03/21/windows-keyboard-shortcuts/
 categories:
   - Technology
 tags:

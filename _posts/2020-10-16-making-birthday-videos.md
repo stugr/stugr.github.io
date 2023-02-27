@@ -2,6 +2,7 @@
 layout: post
 title:  Making Birthday Videos
 author: nickstugr
+redirect_from: /2020/10/16/making-birthday-videos
 ---
 
 Covid and Melbourne lockdown have meant that most birthdays since March have either been run over Zoom or involved people pre-recording birthday messages for their friends.

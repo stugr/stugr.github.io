@@ -5,7 +5,7 @@ date: 2013-01-24T16:42:11+00:00
 author: nickstugr
 layout: post
 guid: http://www.stugr.com/?p=335
-permalink: /2013/01/24/wsus-limit-sql-windows-internal-database-memory/
+redirect_from: /2013/01/24/wsus-limit-sql-windows-internal-database-memory/
 categories:
   - Technology
 tags:

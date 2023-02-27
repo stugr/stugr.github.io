@@ -5,7 +5,7 @@ date: 2012-09-28T12:30:39+00:00
 author: nickstugr
 layout: post
 guid: http://www.stugr.com/?p=275
-permalink: /2012/09/28/manage-2008-from-2012-server-manager/
+redirect_from: /2012/09/28/manage-2008-from-2012-server-manager/
 categories:
   - Technology
 tags:

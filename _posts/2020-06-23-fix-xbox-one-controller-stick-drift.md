@@ -2,6 +2,7 @@
 layout: post
 title:  Fix Xbox One controller stick drift
 author: nickstugr
+redirect_from: /2020/06/23/fix-xbox-one-controller-stick-drift
 ---
 
 I had an Xbox One Elite Controller exhibiting stick drift on the left thumbstick - that is, when it was centred in the neutral position, the controller would act like you were pushing slightly up, causing characters in games to walk forwards constantly.

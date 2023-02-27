@@ -5,7 +5,7 @@ date: 2016-07-06T14:54:52+00:00
 author: nickstugr
 layout: post
 guid: http://www.stugr.com/?p=466
-permalink: /2016/07/06/where-is-an-ad-account-lockout-occurring/
+redirect_from: /2016/07/06/where-is-an-ad-account-lockout-occurring/
 categories:
   - Technology
 tags:

@@ -5,7 +5,7 @@ date: 2011-03-14T21:53:11+00:00
 author: nickstugr
 layout: post
 guid: http://stugr.com/?p=124
-permalink: /2011/03/14/site-design-mostly-complete/
+redirect_from: /2011/03/14/site-design-mostly-complete/
 categories:
   - Uncategorized
 tags:

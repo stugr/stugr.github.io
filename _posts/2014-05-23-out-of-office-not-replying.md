@@ -5,7 +5,7 @@ date: 2014-05-23T13:19:49+00:00
 author: nickstugr
 layout: post
 guid: http://www.stugr.com/?p=419
-permalink: /2014/05/23/out-of-office-not-replying/
+redirect_from: /2014/05/23/out-of-office-not-replying/
 categories:
   - Technology
 ---

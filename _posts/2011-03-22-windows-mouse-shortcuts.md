@@ -5,7 +5,7 @@ date: 2011-03-22T23:11:19+00:00
 author: nickstugr
 layout: post
 guid: http://stugr.com/?p=225
-permalink: /2011/03/22/windows-mouse-shortcuts/
+redirect_from: /2011/03/22/windows-mouse-shortcuts/
 categories:
   - Technology
 tags:

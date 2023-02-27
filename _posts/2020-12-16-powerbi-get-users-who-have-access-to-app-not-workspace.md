@@ -2,6 +2,7 @@
 layout: post
 title:  Power Bi - Get users who have access to app (not workspace)
 author: nickstugr
+redirect_from: /2020/12/16/powerbi-get-users-who-have-access-to-app-not-workspace
 ---
 
 Power Bi doesn't give you a way to get a list of users who you have granted access to an app. This is different to the list of users who have access to a workspace, which you _can_ get using the API.

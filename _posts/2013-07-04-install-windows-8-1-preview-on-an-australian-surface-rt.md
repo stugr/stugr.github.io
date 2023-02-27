@@ -5,7 +5,7 @@ date: 2013-07-04T15:56:31+00:00
 author: nickstugr
 layout: post
 guid: http://www.stugr.com/?p=352
-permalink: /2013/07/04/install-windows-8-1-preview-on-an-australian-surface-rt/
+redirect_from: /2013/07/04/install-windows-8-1-preview-on-an-australian-surface-rt/
 categories:
   - Technology
 tags:

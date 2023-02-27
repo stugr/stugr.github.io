@@ -2,6 +2,7 @@
 layout: post
 title:  Becoming me - 2020 edition
 author: nickstugr
+redirect_from: /2020/08/08/becoming-me-2020-edition
 ---
 
 On learning to be kind to myself

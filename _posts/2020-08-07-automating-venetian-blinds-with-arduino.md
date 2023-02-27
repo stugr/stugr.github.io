@@ -2,6 +2,7 @@
 layout: post
 title:  Automating venetian blinds with Arduino
 author: nickstugr
+redirect_from: /2020/08/07/automating-venetian-blinds-with-arduino
 ---
 
 ### Summary

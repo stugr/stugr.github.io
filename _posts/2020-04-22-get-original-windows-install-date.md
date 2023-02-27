@@ -2,6 +2,8 @@
 layout: post
 title:  Get original Windows install date and upgrade history
 author: nickstugr
+redirect_from: /2020/04/22/get-original-windows-install-date
+
 ---
 
 If you use `systeminfo | find "Install Date"` you'll find that it will only return the date of the last Windows 10 build that has been installed, instead of the original install date.

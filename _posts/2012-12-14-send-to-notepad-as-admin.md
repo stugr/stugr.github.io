@@ -5,7 +5,7 @@ date: 2012-12-14T10:48:03+00:00
 author: nickstugr
 layout: post
 guid: http://www.stugr.com/?p=296
-permalink: /2012/12/14/send-to-notepad-as-admin/
+redirect_from: /2012/12/14/send-to-notepad-as-admin/
 categories:
   - Technology
 tags:

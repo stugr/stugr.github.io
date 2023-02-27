@@ -2,6 +2,7 @@
 layout: post
 title:  Track sleep using an IP camera with infrared
 author: nickstugr
+redirect_from: /2020/07/17/track-sleep-using-an-ip-camera-with-infrared
 ---
 
 I live alone with my cat, and often wake up on strange angles with her sleeping on the other side of my legs than she was when I went to sleep.

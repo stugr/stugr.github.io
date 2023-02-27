@@ -5,7 +5,7 @@ date: 2015-04-16T10:03:15+00:00
 author: nickstugr
 layout: post
 guid: http://www.stugr.com/?p=450
-permalink: /2015/04/16/skype-for-business-client-update-while-using-lync-server/
+redirect_from: /2015/04/16/skype-for-business-client-update-while-using-lync-server/
 categories:
   - Technology
 tags:

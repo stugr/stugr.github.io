@@ -42,6 +42,8 @@ plugins:
 header_pages:
   - about.markdown
 
+permalink: /:title
+
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.

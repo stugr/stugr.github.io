@@ -5,7 +5,7 @@ date: 2011-03-20T21:48:12+00:00
 author: nickstugr
 layout: post
 guid: http://stugr.com/?p=137
-permalink: /2011/03/20/windows-7-the-most-useful-tips/
+redirect_from: /2011/03/20/windows-7-the-most-useful-tips/
 categories:
   - Technology
 tags:

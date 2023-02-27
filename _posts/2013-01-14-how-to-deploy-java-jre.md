@@ -5,7 +5,7 @@ date: 2013-01-14T14:59:54+00:00
 author: nickstugr
 layout: post
 guid: http://www.stugr.com/?p=324
-permalink: /2013/01/14/how-to-deploy-java-jre/
+redirect_from: /2013/01/14/how-to-deploy-java-jre/
 categories:
   - Technology
 tags:

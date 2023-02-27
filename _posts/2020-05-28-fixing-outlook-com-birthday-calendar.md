@@ -2,6 +2,7 @@
 layout: post
 title:  Fixing Outlook.com birthday calendar
 author: nickstugr
+redirect_from: /2020/05/28/fixing-outlook-com-birthday-calendar
 ---
 
 ### OutlookBirthdayCalendar.ps1

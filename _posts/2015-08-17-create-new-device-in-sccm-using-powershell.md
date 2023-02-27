@@ -5,7 +5,7 @@ date: 2015-08-17T10:12:40+00:00
 author: nickstugr
 layout: post
 guid: http://www.stugr.com/?p=453
-permalink: /2015/08/17/create-new-device-in-sccm-using-powershell/
+redirect_from: /2015/08/17/create-new-device-in-sccm-using-powershell/
 categories:
   - Technology
 tags:
