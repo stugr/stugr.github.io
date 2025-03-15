@@ -1,0 +1,46 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/au/Adelaide/epg.xml.gz"
+
+#EXTINF:-1 channel-id="mjh-seven-ade" tvg-id="mjh-seven-ade" tvg-logo="https://i.mjh.nz/.images/seven-ade.png" tvg-chno="7" group-title="Adelaide" , Seven ADL
+https://i.mjh.nz/.r/seven-ade.m3u8
+
+#EXTINF:-1 channel-id="mjh-7two-ade" tvg-id="mjh-7two-ade" tvg-logo="https://i.mjh.nz/.images/7two-ade.png" tvg-chno="72" group-title="Adelaide" , 7two ADL
+https://i.mjh.nz/.r/7two-ade.m3u8
+
+#EXTINF:-1 channel-id="mjh-7mate-ade" tvg-id="mjh-7mate-ade" tvg-logo="https://i.mjh.nz/.images/7mate-ade.png" tvg-chno="74" group-title="Adelaide" , 7mate ADL
+https://i.mjh.nz/.r/7mate-ade.m3u8
+
+#EXTINF:-1 channel-id="mjh-7flix-ade" tvg-id="mjh-7flix-ade" tvg-logo="https://i.mjh.nz/.images/7flix-ade.png" tvg-chno="76" group-title="Adelaide" , 7flix ADL
+https://i.mjh.nz/.r/7flix-ade.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-9-sa" tvg-id="mjh-channel-9-sa" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" tvg-chno="9" group-title="Adelaide" , Channel 9 ADL
+https://i.mjh.nz/.r/channel-9-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-gem-sa" tvg-id="mjh-gem-sa" tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png" tvg-chno="92" group-title="Adelaide" , 9Gem ADL
+https://i.mjh.nz/.r/gem-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-go-sa" tvg-id="mjh-go-sa" tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png" tvg-chno="93" group-title="Adelaide" , 9Go! ADL
+https://i.mjh.nz/.r/go-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-life-sa" tvg-id="mjh-life-sa" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" tvg-chno="94" group-title="Adelaide" , 9Life ADL
+https://i.mjh.nz/.r/life-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-rush-sa" tvg-id="mjh-rush-sa" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png" tvg-chno="96" group-title="Adelaide" , 9Rush ADL
+https://i.mjh.nz/.r/rush-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-sa" tvg-id="mjh-abc-sa" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Adelaide" , ABC TV ADL
+https://c.mjh.nz/abc-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-sa" tvg-id="mjh-10-sa" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" tvg-chno="10" group-title="Adelaide" , 10 ADL
+https://i.mjh.nz/.r/10-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10bold-sa" tvg-id="mjh-10bold-sa" tvg-logo="https://i.mjh.nz/.images/10bold-nsw.png" tvg-chno="12" group-title="Adelaide" , 10 BOLD ADL
+https://i.mjh.nz/.r/10bold-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10peach-sa" tvg-id="mjh-10peach-sa" tvg-logo="https://i.mjh.nz/.images/10peach-nsw.png" tvg-chno="11" group-title="Adelaide" , 10 Peach ADL
+https://i.mjh.nz/.r/10peach-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-10shake-sa" tvg-id="mjh-10shake-sa" tvg-logo="https://i.mjh.nz/.images/10-nickelodeon.png" tvg-chno="13" group-title="Adelaide" , Nickelodeon ADL
+https://i.mjh.nz/.r/10shake-sa.m3u8
+
+#EXTINF:-1 channel-id="mjh-c44" tvg-id="mjh-c44" tvg-logo="https://i.mjh.nz/.images/c44.png" tvg-chno="44" group-title="Adelaide" , Channel 44 ADL
+https://i.mjh.nz/.r/c44.m3u8
