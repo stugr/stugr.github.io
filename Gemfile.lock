@@ -71,7 +71,7 @@ GEM
     logger (1.7.0)
     mercenary (0.3.6)
     mini_portile2 (2.8.9)
-    minima (2.5.1)
+    minima (2.5.2)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
@@ -115,13 +115,13 @@ DEPENDENCIES
   base64
   bigdecimal
   csv
-  jekyll (~> 4.0.0)
+  jekyll (~> 4.0.1)
   jekyll-feed (~> 0.12)
   jekyll-redirect-from
   jekyll-sitemap
   jemoji
   logger
-  minima (~> 2.5)
+  minima (~> 2.5.2)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.2.0)
